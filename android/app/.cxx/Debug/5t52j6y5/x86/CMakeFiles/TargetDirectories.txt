@@ -1,0 +1,2 @@
+E:/Project/quotio/android/app/.cxx/Debug/5t52j6y5/x86/CMakeFiles/edit_cache.dir
+E:/Project/quotio/android/app/.cxx/Debug/5t52j6y5/x86/CMakeFiles/rebuild_cache.dir

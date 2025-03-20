@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838056909789",
+    "project_id": "quotio-6591c",
+    "storage_bucket": "quotio-6591c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838056909789:android:86a1a562ecfbde9f03f434",
+        "android_client_info": {
+          "package_name": "com.example.quotio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPEF4NGjrpPFTC9jCW0DYXdH95-D40II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
